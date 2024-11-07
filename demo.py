@@ -1,0 +1,1 @@
+print("binh ngu ngoc")
